@@ -1,0 +1,1 @@
+<console.log>say NIgeria!</console.log>
